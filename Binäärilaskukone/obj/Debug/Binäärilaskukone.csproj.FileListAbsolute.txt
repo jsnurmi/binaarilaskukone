@@ -1,0 +1,8 @@
+C:\Users\Tomi\Documents\Visual Studio 2012\Projects\Binäärilaskukone\Binäärilaskukone\bin\Debug\Binäärilaskukone.exe.config
+C:\Users\Tomi\Documents\Visual Studio 2012\Projects\Binäärilaskukone\Binäärilaskukone\bin\Debug\Binäärilaskukone.exe
+C:\Users\Tomi\Documents\Visual Studio 2012\Projects\Binäärilaskukone\Binäärilaskukone\bin\Debug\Binäärilaskukone.pdb
+C:\Users\Tomi\Documents\Visual Studio 2012\Projects\Binäärilaskukone\Binäärilaskukone\bin\Debug\MathLibrary.dll
+C:\Users\Tomi\Documents\Visual Studio 2012\Projects\Binäärilaskukone\Binäärilaskukone\bin\Debug\MathLibrary.pdb
+C:\Users\Tomi\Documents\Visual Studio 2012\Projects\Binäärilaskukone\Binäärilaskukone\obj\Debug\Binäärilaskukone.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2012\Projects\Binäärilaskukone\Binäärilaskukone\obj\Debug\Binäärilaskukone.exe
+C:\Users\Tomi\Documents\Visual Studio 2012\Projects\Binäärilaskukone\Binäärilaskukone\obj\Debug\Binäärilaskukone.pdb

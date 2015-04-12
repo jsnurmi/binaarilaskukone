@@ -1,0 +1,5 @@
+C:\Users\Tomi\Documents\Visual Studio 2012\Projects\Binäärilaskukone\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\Tomi\Documents\Visual Studio 2012\Projects\Binäärilaskukone\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\Tomi\Documents\Visual Studio 2012\Projects\Binäärilaskukone\MathLibrary\obj\Debug\MathLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2012\Projects\Binäärilaskukone\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\Tomi\Documents\Visual Studio 2012\Projects\Binäärilaskukone\MathLibrary\obj\Debug\MathLibrary.pdb
