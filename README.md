@@ -15,7 +15,8 @@ Ohjelman toimintoja:
 
 2. Valuuttamuunnin
 	- Syötä ensin jokin rahasumma. Tämän jälkeen syötä mistä valuutasta muunnetaan 
-	  esim. USD ja sen jälkeen mihin valuuttaan esim. EUR
+	  esim. USD ja sen jälkeen mihin valuuttaan esim. EUR. Huom! ohjelma käyttää komentoriviparametreja, joten
+	  voit esim. käynistää ohjelman komentoriviltä ja syöttää parametreina vaikkapa 500 eur usd. 
 
 3. Luonnollisten lukujen summa
 	- Lasketaan lukujen 3 ja 5 jaollisten lukujen summa
